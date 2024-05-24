@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="/var/www/html/example.jpg"></img></center>
+  <center><img src="example.jpg"></img></center>
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. 5 times retrying.
   <!-- END -->
