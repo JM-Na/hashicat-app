@@ -6,14 +6,15 @@
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>Meow!</title></head>
+  <head><title>Siuuu!</title></head>
   <body>
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
   <center><img src="example.jpg"></img></center>
-  <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. 5 times retrying.
+  <center><h2>Siuu World!</h2></center>
+  <center><h3>Welcome to ${PREFIX}'s app. We don't have group photo.</h3></center>
+  <center><h3>So we used example photo instead.</h3></center>
   <!-- END -->
 
   </div>
