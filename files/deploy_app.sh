@@ -14,7 +14,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="example.jpg"></img></center>
   <center><h2>SWEAT Test Page!</h2></center>
   <center><h3>Welcome to ${PREFIX}'s app.</h3></center>
-  <center><h3>Team SWEAT will keep trying with sweat</h3></center>
+  <center><h3>Team SWEAT will keep trying with sweat!</h3></center>
   <!-- END -->
 
   </div>
