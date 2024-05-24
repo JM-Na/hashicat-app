@@ -6,15 +6,15 @@
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>Siuuu!</title></head>
+  <head><title>SWEAT</title></head>
   <body>
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
   <center><img src="example.jpg"></img></center>
-  <center><h2>Siuu World!</h2></center>
-  <center><h3>Welcome to ${PREFIX}'s app. We don't have group photo.</h3></center>
-  <center><h3>So we used example photo instead.</h3></center>
+  <center><h2>SWEAT Test Page!</h2></center>
+  <center><h3>Welcome to ${PREFIX}'s app.</h3></center>
+  <center><h3>Team SWEAT will keep trying with sweat</h3></center>
   <!-- END -->
 
   </div>
